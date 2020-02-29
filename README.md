@@ -1,3 +1,3 @@
 # Learning_java
-newbie 
+Newbie.
 Started learning java, These are practice codes
